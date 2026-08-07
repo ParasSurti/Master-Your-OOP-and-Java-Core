@@ -6,5 +6,7 @@ public class Q02
     public static void main(String[] args)
     {
         Student constructor = new Student(21,"Paras");
+        System.out.println(constructor.age);
+        System.out.println(constructor.name);
     }
 }

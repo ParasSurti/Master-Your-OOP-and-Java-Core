@@ -1,11 +1,11 @@
 package Phase_1.Foundation.Q02;
 
 public class Student {
-    int fieldAge;
-    String fieldName;
+    int age;
+    String name;
     public Student(int age, String name)
     {
-        fieldAge = age;
-        fieldName = name;
+        this.age = age;
+        this.name = name;
     }
 }
