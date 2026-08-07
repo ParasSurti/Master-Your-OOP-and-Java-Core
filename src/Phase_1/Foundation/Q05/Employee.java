@@ -1,10 +1,9 @@
 package Phase_1.Foundation.Q05;
 
-public class Student
+public class Employee
 {
-    int age;
-    Student()
+    Employee()
     {
-        age = 20;
+        System.out.println("Employee Created");
     }
 }
