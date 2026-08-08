@@ -1,4 +1,4 @@
-package Phase_1.Foundation.Q06;
+package Phase_1.FOUNDATIONAL.Q06;
 
 public class Explicit
 {

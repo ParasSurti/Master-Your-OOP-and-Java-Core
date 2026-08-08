@@ -1,5 +1,5 @@
 //Compare a class with no constructor (implicit default) against one with an explicit constructor.
-package Phase_1.Foundation.Q06;
+package Phase_1.FOUNDATIONAL.Q06;
 
 public class Q06
 {
