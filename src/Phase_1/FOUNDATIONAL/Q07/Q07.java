@@ -1,5 +1,5 @@
 // Show that a class loses its implicit default constructor once a parameterized constructor is added.
-package Phase_1.Foundation.Q07;
+package Phase_1.FOUNDATIONAL.Q07;
 
 public class Q07
 {
