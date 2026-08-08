@@ -1,5 +1,5 @@
 // Create a class Employee that prints “Employee created” every time an object is instantiated.
-package Phase_1.Foundation.Q05;
+package Phase_1.FOUNDATIONAL.Q05;
 
 public class Q05
 {

@@ -1,4 +1,4 @@
-package Phase_1.Foundation.Q05;
+package Phase_1.FOUNDATIONAL.Q05;
 
 public class Employee
 {
