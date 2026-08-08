@@ -1,4 +1,4 @@
-package Phase_1.Foundation.Q04;
+package Phase_1.FOUNDATIONAL.Q04;
 
 public class Box
 {

@@ -1,7 +1,5 @@
 //Demonstrate constructor overloading in a class Box (no-arg, one-dimension, three-dimension).
-package Phase_1.Foundation.Q04;
-
-import javax.swing.*;
+package Phase_1.FOUNDATIONAL.Q04;
 
 public class Q04
 {
