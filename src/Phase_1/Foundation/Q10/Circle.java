@@ -9,6 +9,6 @@ public class Circle
     }
     Circle(int d)
     {
-        this.r = (float) d / 2;
+        this.r = ((float) d / 2);
     }
 }

@@ -5,7 +5,7 @@ public class Q10
 {
     public static void main(String[] args)
     {
-        Circle radius = new Circle(12);
-        System.out.println("The radius is " + radius.r);
+        Circle radius = new Circle(13);
+        System.out.println("The radius is " +  radius.r);
     }
 }
