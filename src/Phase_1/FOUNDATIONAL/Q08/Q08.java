@@ -1,7 +1,5 @@
 //Create an array of Book objects, initializing each through a parameterized constructor.
-package Phase_1.Foundation.Q08;
-
-import java.util.Arrays;
+package Phase_1.FOUNDATIONAL.Q08;
 
 public class Q08
 {

@@ -1,4 +1,4 @@
-package Phase_1.Foundation.Q08;
+package Phase_1.FOUNDATIONAL.Q08;
 
 public class Books {
     int num;
