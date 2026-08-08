@@ -1,5 +1,5 @@
 //Create a class Student with a default constructor that sets name to “Unknown” and age to 0.
-package Phase_1.Foundation.Q01;
+package Phase_1.FOUNDATIONAL.Q01;
 
 public class Q01
 {

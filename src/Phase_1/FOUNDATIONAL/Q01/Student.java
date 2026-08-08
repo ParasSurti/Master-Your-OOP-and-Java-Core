@@ -1,4 +1,4 @@
-package Phase_1.Foundation.Q01;
+package Phase_1.FOUNDATIONAL.Q01;
 
 public class Student
 {
