@@ -1,4 +1,4 @@
-package Phase_1.Foundation.Q03;
+package Phase_1.FOUNDATIONAL.Q03;
 
 public class Rectangle
 {
