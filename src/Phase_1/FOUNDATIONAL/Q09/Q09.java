@@ -1,5 +1,5 @@
 //Write a class Person that rejects a negative age inside the constructor.
-package Phase_1.Foundation.Q09;
+package Phase_1.FOUNDATIONAL.Q09;
 
 public class Q09
 {
