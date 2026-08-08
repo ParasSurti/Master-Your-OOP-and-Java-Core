@@ -1,4 +1,4 @@
-package Phase_1.Foundation.Q10;
+package Phase_1.FOUNDATIONAL.Q10;
 
 public class Circle
 {
