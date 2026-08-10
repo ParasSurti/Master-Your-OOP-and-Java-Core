@@ -7,5 +7,6 @@ public class Q07
     {
 //        Proved that class loses its implicit default constructor once parameterized constructor is added
 //        Parameter explicit = new Parameter();
+        Parameter explicit = new Parameter(5);
     }
 }
