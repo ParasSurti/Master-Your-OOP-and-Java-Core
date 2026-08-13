@@ -9,6 +9,6 @@ public class Q02 {
         NewId newId1 = new NewId();
         System.out.println(NewId.counter);
         NewId newId2 = new NewId();
-        System.out.println(NewId.count
+        System.out.println(NewId.counter);
     }
 }
