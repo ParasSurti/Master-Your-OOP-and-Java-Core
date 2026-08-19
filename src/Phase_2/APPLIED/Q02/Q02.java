@@ -10,6 +10,5 @@ public class Q02
 
         System.out.println(money1.getMoney());
         System.out.println(money2.getMoney());
-
     }
 }
